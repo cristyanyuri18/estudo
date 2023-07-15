@@ -3,7 +3,7 @@
 let numero = 30  //number
 let altura = 1.77   //number
 let nome = 'Yuri'   //string (texto)
-let estudando = true    //boleano (true ou false)
+let estudando = true    //booleano (true ou false)
 
 console.log(numero, typeof numero)
 console.log(altura, typeof altura)
